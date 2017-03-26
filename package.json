@@ -1,0 +1,19 @@
+{
+  "name": "hex-grid",
+  "version": "0.0.0",
+  "description": "Library to render a map based on hex grid data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanca/hex-grid.git"
+  },
+  "author": "Juan Carlos Medina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanca/hex-grid/issues"
+  },
+  "homepage": "https://github.com/juanca/hex-grid#readme"
+}
